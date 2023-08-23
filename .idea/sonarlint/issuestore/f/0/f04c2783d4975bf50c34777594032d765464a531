@@ -1,0 +1,35 @@
+
+g
+java:S1192?"KDefine a constant instead of duplicating this literal "SignUp.jsp" 4 times.(Œ½[8çÄÑƒ‰1
+r	java:S117""QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÄ›¿øÿÿÿÿ8èÄÑƒ‰1
+m	java:S117'"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õš8èÄÑƒ‰1
+m	java:S117."QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿÿ½¾8èÄÑƒ‰1
+r	java:S1173"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚±ÏÂÿÿÿÿÿ8èÄÑƒ‰1
+r	java:S1178"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«üÊıÿÿÿÿ8èÄÑƒ‰1
+l
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªùå‡8‡ƒæĞ‰1
+8
+java:S3626X"Remove this redundant jump.(ûÁİ…8÷ÅÑƒ‰1
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ8ùÅÑƒ‰1
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ıÅÑƒ‰1
+Y
+java:S63532"<Use concise character class syntax '\\d' instead of '[0-9]'.(ßàÔ§8ÿÅÑƒ‰1
+R
+java:S14813"0Remove this unused "Cnicpattern" local variable.(‚±ÏÂÿÿÿÿÿ8ÿÅÑƒ‰1
+L
+java:S58697"*Remove duplicates in this character class.(¡ôÅúşÿÿÿÿ8€ÆÑƒ‰1
+D
+java:S1125;"'Remove the unnecessary boolean literal.(—ƒÙª8‚ÆÑƒ‰1
+Z	java:S106<"9Replace this use of System.out or System.err by a logger.(ìÀÜëùÿÿÿÿ8ƒÆÑƒ‰1
+Z	java:S106="9Replace this use of System.out or System.err by a logger.(³Àúÿÿÿÿ8ƒÆÑƒ‰1
+I
+java:S1125D"'Remove the unnecessary boolean literal.(Øš‰•ÿÿÿÿÿ8„ÆÑƒ‰1
+Z	java:S106E"9Replace this use of System.out or System.err by a logger.(ÃÅÈ¸ÿÿÿÿÿ8…ÆÑƒ‰1
+D
+java:S1125K"'Remove the unnecessary boolean literal.(äúåĞ8†ÆÑƒ‰1
+Z	java:S106L"9Replace this use of System.out or System.err by a logger.(ß“ÔŞıÿÿÿÿ8†ÆÑƒ‰1
+C
+java:S1125S"'Remove the unnecessary boolean literal.(‡çÌw8‡ÆÑƒ‰1
+Z	java:S106T"9Replace this use of System.out or System.err by a logger.(ŒÉÜòüÿÿÿÿ8‡ÆÑƒ‰1
+E	java:S108{")Either remove or fill this block of code.(â•¼İ8‹ÆÑƒ‰1

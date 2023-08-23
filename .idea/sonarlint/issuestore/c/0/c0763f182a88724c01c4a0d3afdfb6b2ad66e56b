@@ -1,0 +1,36 @@
+
+n
+java:S1192D"LDefine a constant instead of duplicating this literal "AddUser.jsp" 4 times.(ªÕ©ñùÿÿÿÿ8÷—“¤Œ1
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ºÄ›¿øÿÿÿÿ8ø—“¤Œ1
+m	java:S117$"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õš8ø—“¤Œ1
+m	java:S117+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ÿÿ½¾8ø—“¤Œ1
+r	java:S1170"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚±ÏÂÿÿÿÿÿ8ù—“¤Œ1
+r	java:S1175"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«üÊıÿÿÿÿ8ù—“¤Œ1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(´šÏúÿÿÿÿ8®µêÑ‰1
+l
+java:S2095b"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ªùå‡8»š“¤Œ1
+8
+java:S3626U"Remove this redundant jump.(ûÁİ…8Áš“¤Œ1
+r
+java:S1989"PHandle the following exception that could be thrown by "getWriter": IOException.(ïô†úÿÿÿÿ8Ãš“¤Œ1
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8á¶êÑ‰1
+^
+java:S6353/"<Use concise character class syntax '\\d' instead of '[0-9]'.(Æ¬à±øÿÿÿÿ8Ëš“¤Œ1
+R
+java:S14810"0Remove this unused "Cnicpattern" local variable.(‚±ÏÂÿÿÿÿÿ8Ìš“¤Œ1
+L
+java:S58694"*Remove duplicates in this character class.(¡ôÅúşÿÿÿÿ8Úš“¤Œ1
+D
+java:S11258"'Remove the unnecessary boolean literal.(—ƒÙª8Üš“¤Œ1
+Z	java:S1069"9Replace this use of System.out or System.err by a logger.(ìÀÜëùÿÿÿÿ8İš“¤Œ1
+Z	java:S106:"9Replace this use of System.out or System.err by a logger.(³Àúÿÿÿÿ8İš“¤Œ1
+I
+java:S1125A"'Remove the unnecessary boolean literal.(Øš‰•ÿÿÿÿÿ8ßš“¤Œ1
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(ÃÅÈ¸ÿÿÿÿÿ8ßš“¤Œ1
+D
+java:S1125H"'Remove the unnecessary boolean literal.(äúåĞ8àš“¤Œ1
+Z	java:S106I"9Replace this use of System.out or System.err by a logger.(ß“ÔŞıÿÿÿÿ8áš“¤Œ1
+C
+java:S1125P"'Remove the unnecessary boolean literal.(‡çÌw8âš“¤Œ1
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(ŒÉÜòüÿÿÿÿ8ãš“¤Œ1
+E	java:S108{")Either remove or fill this block of code.(â•¼İ8êš“¤Œ1

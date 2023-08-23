@@ -1,0 +1,15 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¬öÅÑ‰1
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¬öÅÑ‰1
+g	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8¬öÅÑ‰1
+i
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(‡²€·ıÿÿÿÿ8¸öÅÑ‰1
+\
+java:S1118":Add a private constructor to hide the implicit public one.(·Ñıÿÿÿÿ8ü¢ÌÑ‰1
+a
+java:S2147"DCombine this catch with the one at line 17, which has the same body.(ıàÑÎ8¼öÅÑ‰1
+S
+java:S6437"6Revoke and change this password, as it is compromised.(’£°8¼öÅÑ‰1
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(Â–‘ö8Á·ÛÑ‰1
+^
+java:S1126$"AReplace this if-then-else statement by a single return statement.(Œ‡Ü‘8“²ÆÑ‰1
